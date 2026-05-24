@@ -1,3 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(bg.jpg); /* I have uploaeded a Hd photo */
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 h1{
     color :red
 }
@@ -10,11 +19,4 @@ ul{
 }
 .per p{
     color: greenyellow;
-}
-img
-{
-    width: 400px;
-    height: 300px;
-    margin: 20px;
-    border-radius: 100px;
 }
